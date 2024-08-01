@@ -1,0 +1,2 @@
+BLPR.blend filter=lfs diff=lfs merge=lfs -text
+BLPR.stl filter=lfs diff=lfs merge=lfs -text
